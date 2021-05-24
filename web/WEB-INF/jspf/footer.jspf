@@ -1,0 +1,9 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<%@page import="br.com.fatec.Database"%>
+<%@page import="br.com.fatec.User"%>
+<%@page import="br.com.fatec.Contato"%>
+<footer>
+    <h3>Jane Fernanda Martins</h3>
+    <h3>RA: 1290481812013</h3>
+</footer>
